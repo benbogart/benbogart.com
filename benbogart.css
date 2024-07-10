@@ -1,0 +1,78 @@
+body {
+	font-family: Verdana, Geneva, Arial, helvetica, sans-serif;
+	color: #FFFFFF;
+	background-attachment: scroll;
+	background-image: url(images/tltlebar-1px.jpg);
+	background-repeat: repeat-x;
+	background-position: top;
+}
+.Heading {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+}
+a {
+	color: #FFFFFF;
+}
+.Info {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: lighter;
+	font-size: 12px;
+}
+.back {
+	background-image: url(images/index_01.jpg);
+	background-position: right top;
+	background-repeat: no-repeat;
+}
+.backrow {
+	background-image: url(images/tltlebar-1px.jpg);
+	background-position: left top;
+	background-repeat: repeat-x;
+	background-attachment: scroll;
+}
+.backtitle {
+	background-image: url(test 7/images/index_03.jpg);
+	background-position: top;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+}
+.darkgrey {
+	background-color: #8E8D8D;
+}
+.lightgrey {
+	background-color: #A8A7A7;
+}
+.red {
+	color: #CC0101;
+}
+.back1 {
+	background-position: right top;
+	background-repeat: no-repeat;
+}
+.backtango {
+	background-image: url(images/index_04.jpg);
+	background-position: left top;
+	background-repeat: no-repeat;
+}
+.navbar {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: small;
+	font-weight: bold;
+}
+.bbb {
+	position: relative;
+	top: 0px;
+	height: 32px;
+	width: 90px;
+	left: -90px;
+}
+.cdborder {
+	border-top-color: #000000;
+	border-right-color: #000000;
+	border-bottom-color: #000000;
+	border-left-color: #000000;
+}
+.saxbando_image {
+	width: 10em;
+	height: 5em;
+}
